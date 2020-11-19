@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogon Pot Recursive", "Dogon Pot Recursive\Dogon Pot Recursive.csproj", "{4045D2B0-3F33-4543-A9FE-A26B2A6CDACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4045D2B0-3F33-4543-A9FE-A26B2A6CDACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4045D2B0-3F33-4543-A9FE-A26B2A6CDACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4045D2B0-3F33-4543-A9FE-A26B2A6CDACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4045D2B0-3F33-4543-A9FE-A26B2A6CDACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9308A76D-C5E1-4626-8BB4-F756D4B74953}
+	EndGlobalSection
+EndGlobal
